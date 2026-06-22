@@ -51,6 +51,9 @@ source venv/bin/activate
 
 # Install dependencies
 pip install flask
+
+# Edit Info
+View the comments in index.py and modify them to your own information.
 ```
 
 ---
